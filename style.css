@@ -39,7 +39,7 @@ cursor: pointer;
    }
    .input-box{
     position: relative;
-    width: 100%;
+    width: 70%;
     max-width: 500px;
     min-height: 150px;
     background:white;
